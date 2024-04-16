@@ -9,7 +9,7 @@ A Discord chatbot that combines Discord.js with OpenAI's GPT-3 for engaging conv
 ## Installation
 1. Clone this repo:
 
-      `git clone https://github.com/yourusername/discord-gpt-chatbot.git`
+      `git clone https://github.com/matmuenzel/discord-gpt-chatbot.git`
 
 3. Navigate to the project folder:
    
